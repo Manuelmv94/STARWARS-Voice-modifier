@@ -1,0 +1,1 @@
+The main file is Ventana.java inside the "gui" folder. Run this file and the graphic interface will show up
